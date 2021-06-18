@@ -1,3 +1,5 @@
+Video demo: https://www.youtube.com/watch?v=ih06yIjlcA0
+
 Group Members:  Stephen Zhong, Sean Pham, Otto Sharples, Josiah Smith
 
 Project Name: NBA 112K
